@@ -345,7 +345,7 @@ header {
 }
 
 .nutritional-list li::before {
-    content: url("images/icon-wave.jpg");
+    content: url("Images/icon-wave.jpg");
 }
 
 .nutritional-list li {
